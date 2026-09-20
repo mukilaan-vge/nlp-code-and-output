@@ -1,0 +1,8 @@
+Enter number of documents: 2
+Enter document: great phone with excellent battery
+Enter category: battery
+Enter document: justice is served
+Enter category: justice
+
+Rule-Based Accuracy: 0.0
+Maximum Entropy Accuracy: 1.0
